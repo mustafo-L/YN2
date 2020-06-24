@@ -1309,10 +1309,10 @@ input:focus {
   border-bottom: 1px solid #393c3d; }
   .vizew-post-author .post-author-thumb {
     -webkit-box-flex: 0;
-    -ms-flex: 0 0 120px;
-    flex: 0 0 120px;
-    max-width: 120px;
-    width: 120px; }
+    -ms-flex: 0 0 250px;
+    flex: 0 0 250px;
+    max-width: 250px;
+    width: 250px; }
     @media only screen and (max-width: 767px) {
       .vizew-post-author .post-author-thumb {
         -webkit-box-flex: 0;
