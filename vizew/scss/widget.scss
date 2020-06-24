@@ -228,14 +228,20 @@
 
     .author-avatar {
         margin: 0 auto 20px;
-        width: 120px;
-        height: 120px;
+        width: 50px;
+        height: 50px;
         display: block;
         border-radius: 50%;
     }
 
+    .author-avatara {
+        margin: 0 auto 20px;
+        
+    }
+
     .author-name {
         display: block;
+        margin-top: 30px;
         color: $white;
         font-size: 18px;
         margin-bottom: 15px;
